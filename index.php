@@ -1,6 +1,6 @@
 <?php
 
 print "First Code + second code";
-print "Third code !!"
+print "Third code !!";
 
 ?>
